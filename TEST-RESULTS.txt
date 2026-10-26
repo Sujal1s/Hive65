@@ -1,0 +1,8 @@
+PASS: six-zone image sampling with known RGB stripes
+PASS: 520-byte report, 378-byte RGB matrix, 67 key slots, unused slots and padding
+PASS: brightness and smoothing
+PASS: 2D per-key mapping, map bounds, optional modes, black/white preservation, vivid weighting
+PASS: live primary-display capture (pixels not saved)
+PASS: start, live preview timer and stop
+PASS: Windows UI created and rendered
+Hardware output NOT TESTED: no keyboard available.
